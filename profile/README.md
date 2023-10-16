@@ -6,7 +6,7 @@ Preservation of Snap Camera and related tools.
 Host your own Snap Camera server after the shutdown on January 25, 2023. 
 
 ### [Snap Camera Server Auto Config](https://github.com/ptrumpis/snap-camera-server-auto-config)
-Snap Camera Server Auto Configuration Tool for Windows.
+Snap Camera Server Auto Configuration Tool for Windows and Mac OS.
 
 ### [Snap Camera Signature Patch](https://github.com/ptrumpis/snap-camera-signature-patch)
 Signature Patch to unlock all Snap Lenses with Snap Camera Server v3.
