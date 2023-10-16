@@ -14,6 +14,9 @@ Signature Patch to unlock all Snap Lenses with Snap Camera Server v3.
 ### [Snap Lens Cache Import](https://github.com/ptrumpis/snap-lens-cache-import)
 Import your local application cached Snap Lenses to your own Snap Camera Server with ease.
 
+### [Snap Lens Tool](https://github.com/ptrumpis/snap-lens-tool)
+A Swiss Army Knife for Snapchat Lenses.
+
 ### [Snap Lens File Extractor](https://github.com/ptrumpis/snap-lens-file-extractor)
 JavaScript Online File Extractor, Parser, Unpacker for the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns).
 
