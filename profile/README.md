@@ -1,5 +1,11 @@
 # 👻 Snap Camera
-Preservation of Snap Camera and related tools.
+Preservation of Snap Camera and related tools to keep this awesome application alive after the shutdown.
+
+![Snap Camera](https://github.com/snapcamera/.github/assets/116500225/e0da7f48-a970-45cd-b8dd-08ea3bad74f4)
+
+The projects below will help to keep Snap Camera free and public for everyone.
+
+Feel free to join [💬 Discussions](https://github.com/ptrumpis/snap-camera-server/discussions) and help to build a community.
 
 ## 🗄️ Projects
 ### [Snap Camera Server](https://github.com/ptrumpis/snap-camera-server)
@@ -25,3 +31,8 @@ Online Documentation of the Snap Camera / Snapchat Lens File Format (lens.lns / 
 
 ### [Snap Lens Web Crawler](https://github.com/ptrumpis/snap-lens-web-crawler)
 Crawl and download Snap Lenses from lens.snapchat.com with ease.
+
+## 📥 Download Links
+- [Download Snap Camera 1.21](https://bit.ly/snpcm)
+- [Download Snap Camera 1.20](https://bit.ly/snpcm19)
+- [Download Snap Camera 1.19](https://bit.ly/snpcm19)
