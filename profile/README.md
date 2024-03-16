@@ -1,5 +1,5 @@
 # 👻 Snap Camera
-Preservation of Snap Camera and related tools to keep this awesome application alive after the shutdown.
+Preservation of Snap Camera and related tools to keep this awesome application alive after its shutdown.
 
 ![Snap Camera](https://github.com/snapcamera/.github/assets/116500225/e0da7f48-a970-45cd-b8dd-08ea3bad74f4)
 
@@ -24,28 +24,28 @@ Feel free to join [💬 Discussions](https://github.com/ptrumpis/snap-camera-ser
 
 ## 🗄️ Projects
 ### [Snap Camera Server](https://github.com/ptrumpis/snap-camera-server)
-Host your own Snap Camera server after the shutdown on January 25, 2023. 
+An alternative, self-hosted solution that allows you to continue using Snap Camera with all Snapchat filters after its shutdown on January 25, 2023.
 
 ### [Snap Camera Server Auto Config](https://github.com/ptrumpis/snap-camera-server-auto-config)
 Snap Camera Server Auto Configuration Tool for Windows and Mac OS.
 
 ### [Snap Camera Signature Patch](https://github.com/ptrumpis/snap-camera-signature-patch)
-Signature Patch to unlock all Snap Lenses with Snap Camera Server v3.
+Signature Patch to unlock all Snap Lenses with Snap Camera Server.
 
 ### [Snap Lens Cache Import](https://github.com/ptrumpis/snap-lens-cache-import)
-Import your local application cached Snap Lenses to your own Snap Camera Server with ease.
+Import your local cached Snap Lenses or upload custom Lenses to your own Snap Camera Server.
 
 ### [Snap Lens Tool](https://github.com/ptrumpis/snap-lens-tool)
 A Swiss Army Knife for Snapchat Lenses.
 
 ### [Snap Lens File Extractor](https://github.com/ptrumpis/snap-lens-file-extractor)
-JavaScript Online File Extractor, Parser, Unpacker for the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns).
+Online file extractor, parser, unpacker for the Snap Camera / Snapchat lens *.lns file format.
 
 ### [Snap Lens File Format](https://github.com/ptrumpis/snap-lens-file-format)
-Online Documentation of the Snap Camera / Snapchat Lens File Format (lens.lns / *.lns) used by Snap Inc.
+Documentation of the Snap Camera / Snapchat lens .lns file format.
 
 ### [Snap Lens Web Crawler](https://github.com/ptrumpis/snap-lens-web-crawler)
-Crawl and download Snap Lenses from lens.snapchat.com with ease.
+JavaScript library to crawl and download Snap Lenses from lens.snapchat.com with ease.
 
 ## 📥 Download Links
 - [Download Snap Camera 1.21](https://bit.ly/snpcm)
